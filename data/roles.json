@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "role_name" : "Admin",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T09:22:06.046Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:06.046Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bc7915d494c2e4ae2e3"},
+        "role_name" : "User",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T09:22:15.202Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:15.202Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bcf915d494c2e4ae2eb"},
+        "role_name" : "Super_Admin",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T09:22:23.564Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:23.564Z"}
+    }
+]

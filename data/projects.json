@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : {"$oid": "65c3213af8e43c840aab2785"},
+        "project_name" : "NB001",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:20:42.768Z"},
+        "updated_at" : {"$date": "2024-02-07T06:20:42.768Z"}
+    },
+    {
+        "_id" : {"$oid": "65c32145f8e43c840aab2788"},
+        "project_name" : "NB002",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:20:53.808Z"},
+        "updated_at" : {"$date": "2024-02-07T06:20:53.808Z"}
+    },
+    {
+        "_id" : {"$oid": "65c32149f8e43c840aab278b"},
+        "project_name" : "NB003",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:20:57.281Z"},
+        "updated_at" : {"$date": "2024-02-07T06:20:57.281Z"}
+    },
+    {
+        "_id" : {"$oid": "65c3214df8e43c840aab278e"},
+        "project_name" : "NB004",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:21:01.384Z"},
+        "updated_at" : {"$date": "2024-02-07T06:21:01.384Z"}
+    },
+    {
+        "_id" : {"$oid": "65c32152f8e43c840aab2791"},
+        "project_name" : "NB005",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:21:06.148Z"},
+        "updated_at" : {"$date": "2024-02-07T06:21:06.148Z"}
+    },
+    {
+        "_id" : {"$oid": "65c3216ff8e43c840aab2795"},
+        "project_name" : "NB006",
+        "project_owner" : "alper",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:21:35.461Z"},
+        "updated_at" : {"$date": "2024-02-07T06:21:35.461Z"}
+    }
+]

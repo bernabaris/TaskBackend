@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : {"$oid": "65b1f59c03f9aa0dff37e684"},
+        "is_active" : true,
+        "name" : "kategori 1",
+        "created_at" : {"$date": "2024-01-25T05:46:04.658Z"},
+        "updated_at" : {"$date": "2024-01-25T05:46:04.658Z"}
+    },
+    {
+        "_id" : {"$oid": "65b1f5a203f9aa0dff37e686"},
+        "is_active" : true,
+        "name" : "kategori 2",
+        "created_at" : {"$date": "2024-01-25T05:46:10.306Z"},
+        "updated_at" : {"$date": "2024-01-25T05:46:10.306Z"}
+    },
+    {
+        "_id" : {"$oid": "65dcac8761846ead0bd45c31"},
+        "is_active" : true,
+        "name" : "kategori 11",
+        "created_at" : {"$date": "2024-02-26T15:21:43.418Z"},
+        "updated_at" : {"$date": "2024-02-26T15:21:43.418Z"}
+    }
+]

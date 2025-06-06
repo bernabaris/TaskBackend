@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("67fc363319fed7c30beb6c81"),
+    "Type" : "spool",
+    "L1" : "",
+    "L6" : "",
+    "L7" : "",
+    "L9" : "",
+    "L10" : "",
+    "L21" : null,
+    "L22" : null,
+    "L23" : null,
+    "L24" : null,
+    "L50" : null,
+    "created_at" : ISODate("2025-04-13T22:09:55.207+0000"),
+    "updated_at" : ISODate("2025-04-13T22:09:55.207+0000")
+}
+{
+    "_id" : ObjectId("67fc363319fed7c30beb6c83"),
+    "Type" : "spool",
+    "L1" : "",
+    "L6" : "",
+    "L7" : "",
+    "L9" : "",
+    "L10" : "",
+    "L21" : null,
+    "L22" : null,
+    "L23" : null,
+    "L24" : null,
+    "L50" : null,
+    "created_at" : ISODate("2025-04-13T22:09:55.210+0000"),
+    "updated_at" : ISODate("2025-04-13T22:09:55.210+0000")
+}
+{
+    "_id" : ObjectId("67fc364819fed7c30beb6c87"),
+    "Type" : "spool",
+    "L1" : "",
+    "L6" : "",
+    "L7" : "",
+    "L9" : "",
+    "L10" : "",
+    "L21" : null,
+    "L22" : null,
+    "L23" : null,
+    "L24" : null,
+    "L50" : null,
+    "created_at" : ISODate("2025-04-13T22:10:16.681+0000"),
+    "updated_at" : ISODate("2025-04-13T22:10:16.681+0000")
+}

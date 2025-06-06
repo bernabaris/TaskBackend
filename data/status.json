@@ -1,0 +1,58 @@
+[
+    {
+        "_id" : {"$oid": "65c32472d781bfb0c8736131"},
+        "status_name" : "InProgress",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:34:26.376Z"},
+        "updated_at" : {"$date": "2024-02-07T06:34:26.376Z"}
+    },
+    {
+        "_id" : {"$oid": "65c32479d781bfb0c8736134"},
+        "status_name" : "Suspended",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:34:33.008Z"},
+        "updated_at" : {"$date": "2024-02-07T06:34:33.008Z"}
+    },
+    {
+        "_id" : {"$oid": "65c3248fd781bfb0c8736137"},
+        "status_name" : "Done",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:34:55.807Z"},
+        "updated_at" : {"$date": "2024-02-07T06:34:55.807Z"}
+    },
+    {
+        "_id" : {"$oid": "65c32495d781bfb0c873613a"},
+        "status_name" : "Cancelled",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:35:01.916Z"},
+        "updated_at" : {"$date": "2024-02-07T06:35:01.916Z"}
+    },
+    {
+        "_id" : {"$oid": "65c3249ad781bfb0c873613d"},
+        "status_name" : "Approved",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:35:06.406Z"},
+        "updated_at" : {"$date": "2024-02-07T06:35:06.406Z"}
+    },
+    {
+        "_id" : {"$oid": "65c324a4d781bfb0c8736140"},
+        "status_name" : "In Review",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:35:16.029Z"},
+        "updated_at" : {"$date": "2024-02-07T06:35:16.029Z"}
+    },
+    {
+        "_id" : {"$oid": "65c324abd781bfb0c8736143"},
+        "status_name" : "To Do",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T06:35:23.642Z"},
+        "updated_at" : {"$date": "2024-02-07T06:35:23.642Z"}
+    },
+    {
+        "_id" : {"$oid": "65c390fe567f2e935b126bbb"},
+        "status_name" : "Closed",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-07T14:17:34.494Z"},
+        "updated_at" : {"$date": "2024-02-07T14:17:34.494Z"}
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : {"$oid": "65bb9098ac50159a104b376c"},
+        "type_name" : "Klass",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T12:37:44.231Z"},
+        "updated_at" : {"$date": "2024-02-01T12:37:44.231Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb90a8ac50159a104b376e"},
+        "type_name" : "Kalite Departmanı",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T12:38:00.015Z"},
+        "updated_at" : {"$date": "2024-02-01T12:38:00.015Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb90b0ac50159a104b3770"},
+        "type_name" : "Armatör",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T12:38:08.118Z"},
+        "updated_at" : {"$date": "2024-02-01T12:38:08.118Z"}
+    }
+]

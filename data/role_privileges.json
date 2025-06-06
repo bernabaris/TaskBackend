@@ -1,0 +1,65 @@
+[
+    {
+        "_id" : {"$oid": "65c34bbe915d494c2e4ae2dd"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "permission" : "view_users",
+        "created_at" : {"$date": "2024-02-07T09:22:06.055Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:06.055Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bbe915d494c2e4ae2df"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "permission" : "edit_posts",
+        "created_at" : {"$date": "2024-02-07T09:22:06.058Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:06.058Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bbe915d494c2e4ae2e1"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "permission" : "delete_comments",
+        "created_at" : {"$date": "2024-02-07T09:22:06.061Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:06.061Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bc7915d494c2e4ae2e5"},
+        "role_id" : {"$oid": "65c34bc7915d494c2e4ae2e3"},
+        "permission" : "view_users",
+        "created_at" : {"$date": "2024-02-07T09:22:15.205Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:15.205Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bc7915d494c2e4ae2e7"},
+        "role_id" : {"$oid": "65c34bc7915d494c2e4ae2e3"},
+        "permission" : "edit_posts",
+        "created_at" : {"$date": "2024-02-07T09:22:15.207Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:15.207Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bc7915d494c2e4ae2e9"},
+        "role_id" : {"$oid": "65c34bc7915d494c2e4ae2e3"},
+        "permission" : "delete_comments",
+        "created_at" : {"$date": "2024-02-07T09:22:15.211Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:15.211Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bcf915d494c2e4ae2ed"},
+        "role_id" : {"$oid": "65c34bcf915d494c2e4ae2eb"},
+        "permission" : "view_users",
+        "created_at" : {"$date": "2024-02-07T09:22:23.569Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:23.569Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bcf915d494c2e4ae2ef"},
+        "role_id" : {"$oid": "65c34bcf915d494c2e4ae2eb"},
+        "permission" : "edit_posts",
+        "created_at" : {"$date": "2024-02-07T09:22:23.571Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:23.571Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34bcf915d494c2e4ae2f1"},
+        "role_id" : {"$oid": "65c34bcf915d494c2e4ae2eb"},
+        "permission" : "delete_comments",
+        "created_at" : {"$date": "2024-02-07T09:22:23.573Z"},
+        "updated_at" : {"$date": "2024-02-07T09:22:23.573Z"}
+    }
+]

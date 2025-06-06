@@ -1,0 +1,86 @@
+[
+    {
+        "_id" : {"$oid": "65bb974420a45fbba3476f6f"},
+        "topic_name" : "Dizayn",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:12.167Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:12.167Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb974d20a45fbba3476f71"},
+        "topic_name" : "Planlama",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:21.233Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:21.233Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb975320a45fbba3476f73"},
+        "topic_name" : "İç Satınalma",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:27.295Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:27.295Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb975e20a45fbba3476f75"},
+        "topic_name" : "Teknik Satınalma",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:38.970Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:38.970Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb976620a45fbba3476f77"},
+        "topic_name" : "Atolye",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:46.628Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:46.628Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb976b20a45fbba3476f79"},
+        "topic_name" : "Üretim Çelik",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:51.345Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:51.345Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb977220a45fbba3476f7b"},
+        "topic_name" : "Üretim Boru",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:06:58.975Z"},
+        "updated_at" : {"$date": "2024-02-01T13:06:58.975Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb977920a45fbba3476f7d"},
+        "topic_name" : "Üretim Elektrik",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:07:05.997Z"},
+        "updated_at" : {"$date": "2024-02-01T13:07:05.997Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb979d20a45fbba3476f7f"},
+        "topic_name" : "Üretim Teçhiz",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:07:41.647Z"},
+        "updated_at" : {"$date": "2024-02-01T13:07:41.647Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb987a20a45fbba3476f81"},
+        "topic_name" : "Üretim Yaşam mahali",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:11:22.419Z"},
+        "updated_at" : {"$date": "2024-02-01T13:11:22.419Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb988220a45fbba3476f83"},
+        "topic_name" : "Kalite Departmanı",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:11:30.709Z"},
+        "updated_at" : {"$date": "2024-02-01T13:11:30.709Z"}
+    },
+    {
+        "_id" : {"$oid": "65bb988a20a45fbba3476f85"},
+        "topic_name" : "İş güvenliği",
+        "is_active" : true,
+        "created_at" : {"$date": "2024-02-01T13:11:38.398Z"},
+        "updated_at" : {"$date": "2024-02-01T13:11:38.398Z"}
+    }
+]

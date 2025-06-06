@@ -1,0 +1,30 @@
+[
+    {
+        "_id" : {"$oid": "65c34d38915d494c2e4ae302"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "user_id" : {"$oid": "65c34d38915d494c2e4ae300"},
+        "created_at" : {"$date": "2024-02-07T09:28:24.998Z"},
+        "updated_at" : {"$date": "2024-02-07T09:28:24.998Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34d48915d494c2e4ae307"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "user_id" : {"$oid": "65c34d48915d494c2e4ae305"},
+        "created_at" : {"$date": "2024-02-07T09:28:40.431Z"},
+        "updated_at" : {"$date": "2024-02-07T09:28:40.431Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34d50915d494c2e4ae30c"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "user_id" : {"$oid": "65c34d50915d494c2e4ae30a"},
+        "created_at" : {"$date": "2024-02-07T09:28:48.128Z"},
+        "updated_at" : {"$date": "2024-02-07T09:28:48.128Z"}
+    },
+    {
+        "_id" : {"$oid": "65c34d65915d494c2e4ae314"},
+        "role_id" : {"$oid": "65c34bbe915d494c2e4ae2db"},
+        "user_id" : {"$oid": "65c34d65915d494c2e4ae312"},
+        "created_at" : {"$date": "2024-02-07T09:29:09.287Z"},
+        "updated_at" : {"$date": "2024-02-07T09:29:09.287Z"}
+    }
+]
